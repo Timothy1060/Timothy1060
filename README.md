@@ -7,7 +7,7 @@ Web developer
 I am a self taught developer with a interest for problem solving. I love to see my code come to live from conception and design. I have a special place in my heart for the hatred of logical errors. I am a night owl not because i planned it but i stayed up late once and never looked back.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [I have no need for a portfolio](http://google.com)
+* 🖥️  See my portfolio [here](https://portfolio-timothy1060.vercel.app)
 * ✉️  You can contact me at [timothyiliya21@gmail.com](mailto:timothyiliya21@gmail.com)
 * 🤝  I'm open to collaborating on Interesting projects that involves React, React Native, Node JS ,Mongodb. Basically the MERN stack
 
